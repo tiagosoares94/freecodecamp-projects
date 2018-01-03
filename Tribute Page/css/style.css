@@ -1,0 +1,94 @@
+body {
+  margin-top: 60px;
+}
+
+.page-title{
+  letter-spacing: 5px;
+}
+
+h2 {
+  margin-bottom: 50px;
+}
+
+.image-cornell{
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border: 1px solid #000;
+}
+.save-img{
+  margin: auto;
+  display: block;
+  padding: 20px;
+}
+.playlist {
+  margin-top: 10px;
+}
+
+blockquote{
+  text-align: right;
+}
+
+.btn {
+  border: 3px solid #FFFF00;
+  padding: 10px 30px;
+  color: #FFFF00;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.btn:hover {
+    color: #FFF;
+    border-color: #FFF;
+}
+
+blockquote p{
+  margin-bottom: 5px;
+}
+
+blockquote footer{
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.depoiments{
+  border-left: 1px solid #000;
+}
+.depoiments h1{
+  letter-spacing: 5px;
+  margin-bottom: 40px;
+}
+
+.biography{
+  margin-top: 50px;
+  background-color: #696969;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.title-biography{
+  color: #fff;
+  letter-spacing: 5px;
+  padding: 20px;
+}
+
+.biography-text p{
+  color: #fff;
+  font-size: 18px;
+  font-family: Georgia;
+  line-height: 28px;
+  padding: 0 20px 0 20px;
+  text-align: left;
+  text-indent: 30px;
+}
+
+.music-title{
+  letter-spacing: 5px;
+}
